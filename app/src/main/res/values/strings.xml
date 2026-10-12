@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Radyo Tunca</string>
+    <string name="menu_categories">Kategoriler</string>
+    <string name="menu_favorites">Favorilerim</string>
+    <string name="menu_language">Dil Değiştir / Language</string>
+    <string name="menu_about">Hakkında</string>
+
+    <string name="about_title">Hakkında</string>
+    <string name="about_message">Bu radyo uygulaması Mobil Programlama Dersi Bitirme Projesi olarak geliştirilmiştir.\n\nSürüm: 1.0</string>
+    <string name="ok_button">Tamam</string>
+
+    <string name="search_hint">Radyo veya Kategori Ara...</string>
+    <string name="category_all">Tümü</string>
+
+    <string name="toast_playing">çalıyor!</string>
+    <string name="toast_connecting">bağlanıyor...</string>
+</resources>
